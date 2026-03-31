@@ -40,7 +40,7 @@ const PHOTOS = [
 
 //   
   {
-    url: "https://drive.google.com/file/d/1HXgyysENy069Rvm3i9NtODCI8KxBW5di/view?usp=sharing",
+    url: "https://drive.google.com/file/d/1HXgyysENy069Rvm3i9NtODCI8KxBW5di/view?usp=sharinghttps://drive.google.com/file/d/1HXgyysENy069Rvm3i9NtODCI8KxBW5di/view?usp=sharing",
     title: "Jaysonlei @ WISHMAS",
     category: "portrait",
   },
