@@ -39,7 +39,11 @@ const PHOTOS = [
   // Each photo is one { } block. Separate them with commas.
 
 //   
-
+  {
+    url: "https://drive.google.com/file/d/1HXgyysENy069Rvm3i9NtODCI8KxBW5di/view?usp=sharing",
+    title: "Jaysonlei @ WISHMAS",
+    category: "portrait",
+  },
   // ── KEEP ADDING MORE BELOW ─────────────────────────────────
   // {
   //   url: "YOUR_LINK_HERE",
