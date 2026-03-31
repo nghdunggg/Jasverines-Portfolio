@@ -446,10 +446,10 @@ footer {
 function toDirectUrl(url) {
   if (!url) return '';
 
-  // Google Drive: extract FILE_ID
+  // Google Drive: use thumbnail API (sz=s1600 = full resolution)
   const gdMatch = url.match(/\/d\/([a-zA-Z0-9_-]+)/);
   if (gdMatch) {
-    return `https://lh3.googleusercontent.com/d/${gdMatch[1]}`;
+    return `https://drive.google.com/thumbnail?id=${gdMatch[1]}&sz=s1600`;
   }
 
   // Dropbox: ensure raw=1
