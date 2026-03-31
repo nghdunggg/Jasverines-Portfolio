@@ -38,22 +38,7 @@ const PHOTOS = [
   // ── ADD YOUR PHOTOS BELOW ──────────────────────────────────
   // Each photo is one { } block. Separate them with commas.
 
-  {
-    url: "https://drive.google.com/file/d/REPLACE_WITH_YOUR_FILE_ID/view?usp=sharing",
-    title: "Serena",
-    category: "portrait",
-    featured: true,
-  },
-  {
-    url: "https://drive.google.com/file/d/REPLACE_WITH_YOUR_FILE_ID_2/view?usp=sharing",
-    title: "Morning Edit",
-    category: "lifestyle",
-  },
-  {
-    url: "https://www.dropbox.com/scl/fi/REPLACE/yourphoto.jpg?raw=1",
-    title: "Velvet Noir",
-    category: "editorial",
-  },
+//   
 
   // ── KEEP ADDING MORE BELOW ─────────────────────────────────
   // {
